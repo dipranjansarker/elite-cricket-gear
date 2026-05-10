@@ -1,0 +1,25 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.hero-img {
+  max-height: 500px;
+  object-fit: cover;
+}
+
+h1, h2 {
+  font-weight: 700;
+}
+
+video {
+  max-height: 500px;
+  object-fit: cover;
+}
+
+.team-img {
+  max-height: 700px;
+  width: auto;
+  max-width: 100%;
+  display: block;
+}
+
